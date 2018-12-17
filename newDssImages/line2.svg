@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="512px" height="200px" viewBox="0 0 512 200" enable-background="new 0 0 512 200" xml:space="preserve">
+	 
+	  <style type="text/css">
+
+  .svgEditorBackground{
+  fill:none;
+    stroke:#374b56;
+			stroke-width:4;
+    stroke-miterlimit:5;
+  }
+
+  <defs>
+
+      <style>
+
+          .svgEditorBackground{
+
+            stroke-dasharray : 1200;
+            stroke-dashoffset : 0;
+            animation : dash 3s linear infinite;
+			animation-direction: alternate-reverse;
+
+          }
+
+          @-webkit-keyframes dash {
+             from{
+             stroke-dashoffset : 1200;
+             }
+             to {
+             stroke-dashoffset : 0;
+             }
+          }
+
+
+      </style>
+
+
+  </defs>
+</style>
+	 
+	 
+	 
+<path class="svgEditorBackground" fill="none" stroke="#000000" stroke-miterlimit="10" d="M12.631,165.824"/>
+<polyline class="svgEditorBackground" fill="none" stroke="#000000" stroke-miterlimit="10" points="6.929,55.702 55.396,55.702 72.861,13.413 91.637,93.675 
+	93.383,55.27 134.427,53.544 158.005,87.168 158.005,13.413 178.527,53.544 225.247,53.544 233.979,13.413 252.755,53.544 
+	286.813,53.544 299.039,13.413 318.25,87.168 332.223,53.544 377.633,53.544 395.535,20.317 413.873,83.319 423.916,53.544 
+	461.467,53.544 477.186,39.304 488.102,53.544 495.088,53.544 "/>
+<path class="svgEditorBackground" fill="none" stroke="#000000" stroke-miterlimit="10" d="M12.631,138.632h59.65c0,0,10.088-1.755,13.597-10.088
+	s7.018,4.386,9.21,7.018s23.684,3.07,23.684,3.07l14.474-31.141l17.105,58.333v-31.578h36.842c0,0,13.596-10.965,15.351-20.176
+	s5.702,27.631,13.597,15.789S242.019,100,242.019,100l27.193,62.315v-34.21c0,0,8.333-3.07,11.842-14.035s8.772,16.666,13.158,12.28
+	s24.562-1.315,24.562-1.315l37.28-0.438l13.597-38.158l28.509,79.386v-43.421c0,0,19.298-4.386,22.368-8.333
+	s5.701,6.578,14.912,1.754s18.422,0.877,19.299-0.877s26.315,0,26.315,0l18.421,0.438"/>
+</svg>
