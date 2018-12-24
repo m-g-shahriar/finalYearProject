@@ -1,0 +1,261 @@
+
+
+
+
+.mainContentDoctors{
+
+
+
+    background:#eaebed;
+
+
+
+
+}
+
+.forPostion{
+
+	
+   text-align: center;
+	position:relative;
+	
+	left: 90px;
+
+}
+.smallSlogan{
+
+    margin-top: -12px;
+	text-align: center;
+
+}
+.smallSlogan:after{
+  display:inline-block;
+  margin: 0 auto;
+  width: 140px;
+  height : 2px;
+  background-color: black;
+  content: '';
+}
+
+.smallSlogan:before{
+
+    display: inline-block;
+    content: '';
+
+    background: black;
+
+    width: 140px;
+
+    height: 2px;
+
+
+}
+
+
+/* NOTE: Defalut stylesheet prevent */
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+}
+
+
+/* NOTE: For front Page */
+
+
+.mainBackground{
+
+    background: #3e325d;
+
+    height: 100vh;
+
+}
+
+.leftSide{
+
+  background: #322d2d;
+  height: 100vh;
+
+}
+.rigthSide{
+  background: #4c7973;
+  height: 100vh;
+
+}
+
+/* NOTE: Right Side small Box */
+
+.box{
+
+    animation: borderFifty 3s infinite alternate;
+
+
+}
+
+
+@keyframes borderFifty {
+
+  from{
+    width:45px;
+    height:45px;
+  }
+  to{
+    border-radius: 60%;
+  }
+
+}
+
+
+.b1{
+
+    background:#52627c;
+    width:45px;
+    height:45px;
+    margin: 15px;
+}
+.b1Change{
+
+    background:#6886b7;
+    border-radius: 50%;
+}
+.b2{
+
+    background:#b7689a;
+    width:45px;
+    height:45px;
+}
+.b2Change{
+
+    background:#47283c;
+    border-radius: 50%;
+}
+.b3{
+
+    background:#52627c;
+    width:45px;
+    height:45px;
+    margin: 15px;
+}
+.b3Change{
+
+    background:#660041;
+    border-radius: 50%;
+}
+
+
+.b4{
+
+    background:#ce315e;
+    width:45px;
+    height:45px;
+}
+.b4Change{
+
+    background:#660041;
+    border-radius: 50%;
+}
+
+.b5{
+
+    background:#660041;
+    width:45px;
+    height:45px;
+    margin:15px;
+}
+.b5Change{
+
+    background:#ce315e;
+    border-radius: 50%;
+}
+
+.b6{
+
+    background:#376f7a;
+    width:45px;
+    height:45px;
+
+}
+.b6Change{
+
+    background:#03a3bc;
+    border-radius: 50%;
+}
+
+.box{
+  text-align: center;
+  margin: 0 auto;
+}
+
+/* NOTE: Right side titile text and button */
+
+.headingOfRht{
+  margin-top:15px;
+}
+
+.imagesANdroid{
+    padding: 25px;
+    width: 500px;
+    height: 350px;
+}
+
+
+
+
+
+
+/* NOTE: ----------Image rotation from 0 to full */
+
+.imagesRotate{
+  -webkit-animation: rotation 2s infinite linear;
+
+}
+
+@-webkit-keyframes
+             rotation{
+               from {
+                 -webkit-transform: rotate(0deg);
+               }
+               to {
+                 -webkit-transform: rotate(359deg);
+               }
+             }
+
+
+    /* NOTE: FOr json design */
+
+    .MainDiv{
+
+
+        margin: 0 auto;
+
+      font-family: 'Cabin', sans-serif;
+      font-size: 17px;
+
+}
+  .dataPart{
+    width: 700px;
+    margin: auto;
+    border-bottom: 1px solid #191918;
+  }
+
+    .callB{
+      margin-top: 5px;
+      margin-bottom: 14px;
+    }
+
+    .testHideJsonData{
+
+
+        display: none;
+
+    }
+    .testHideJsonButton{
+
+        display: none;
+
+    }
