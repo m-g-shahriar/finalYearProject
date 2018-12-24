@@ -106,7 +106,7 @@ $(function(){
                 $.ajax({
 
               type : "GET",
-              url : "http://sample009.000webhostapp.com/popular_heat.php",
+              url : "https://sample009.000webhostapp.com/popular_heat.php",
               datatype : "json",
               success : function(data){
 
@@ -240,7 +240,7 @@ $(function(){
                         $.ajax({
 
                       type : "GET",
-                      url : "http://sample009.000webhostapp.com/popular_gyne.php",
+                      url : "https://sample009.000webhostapp.com/popular_gyne.php",
                       datatype : "json",
                       success : function(data){
 
@@ -308,7 +308,7 @@ $(function(){
                             $.ajax({
 
                           type : "GET",
-                          url : "http://sample009.000webhostapp.com/popular_child.php",
+                          url : "https://sample009.000webhostapp.com/popular_child.php",
                           datatype : "json",
                           success : function(data){
 
@@ -376,7 +376,7 @@ $(function(){
                                 $.ajax({
 
                               type : "GET",
-                              url : "http://sample009.000webhostapp.com/popular_neuromedcine.php",
+                              url : "https://sample009.000webhostapp.com/popular_neuromedcine.php",
                               datatype : "json",
                               success : function(data){
 
@@ -444,7 +444,7 @@ $(function(){
                                     $.ajax({
 
                                   type : "GET",
-                                  url : "http://sample009.000webhostapp.com/popular_neurosurgery.php",
+                                  url : "https://sample009.000webhostapp.com/popular_neurosurgery.php",
                                   datatype : "json",
                                   success : function(data){
 
@@ -513,7 +513,7 @@ $(function(){
                                         $.ajax({
 
                                       type : "GET",
-                                      url : "http://sample009.000webhostapp.com/popular_painmedicine.php",
+                                      url : "https://sample009.000webhostapp.com/popular_painmedicine.php",
                                       datatype : "json",
                                       success : function(data){
 
@@ -581,7 +581,7 @@ $(function(){
                                             $.ajax({
 
                                           type : "GET",
-                                          url : "http://sample009.000webhostapp.com/popular_eurology.php",
+                                          url : "https://sample009.000webhostapp.com/popular_eurology.php",
                                           datatype : "json",
                                           success : function(data){
 
@@ -649,7 +649,7 @@ $(function(){
                                                 $.ajax({
 
                                               type : "GET",
-                                              url : "http://sample009.000webhostapp.com/popular_diabestieshormune.php",
+                                              url : "https://sample009.000webhostapp.com/popular_diabestieshormune.php",
                                               datatype : "json",
                                               success : function(data){
 
@@ -718,7 +718,7 @@ $(function(){
                                                     $.ajax({
 
                                                   type : "GET",
-                                                  url : "http://sample009.000webhostapp.com/popular_head_neck.php",
+                                                  url : "https://sample009.000webhostapp.com/popular_head_neck.php",
                                                   datatype : "json",
                                                   success : function(data){
 
